@@ -73,7 +73,7 @@ header nav a:hover {
 }
 
 .category h3 {
-  text-align: center;
+  text-align: center !important;
   color: #333;
   font-size: 1.8rem;
   margin-bottom: 1rem;
