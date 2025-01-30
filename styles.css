@@ -70,10 +70,11 @@ header nav a:hover {
 
 .category {
   margin-bottom: 2rem;
+  text-align: center;
 }
 
 .category h3 {
-  text-align: center !important;
+  text-align: inherit !important;
   color: #333;
   font-size: 1.8rem;
   margin-bottom: 1rem;
